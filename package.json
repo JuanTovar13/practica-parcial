@@ -1,0 +1,22 @@
+{
+  "name": "practica-parcial",
+  "version": "1.0.0",
+  "description": "Juan Sebastian Tovar Monje\r A00403573",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanTovar13/practica-parcial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanTovar13/practica-parcial/issues"
+  },
+  "homepage": "https://github.com/JuanTovar13/practica-parcial#readme",
+  "dependencies": {
+    "modules": "^0.4.0"
+  }
+}
